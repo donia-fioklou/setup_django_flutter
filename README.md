@@ -13,7 +13,8 @@
 - django-admin startproject project_name
 ### create app
 - python manage.py startapp app_name
-after add the app and drf to the setting and configure database setting
+
+ after add the app and drf to the setting and configure database setting
 
 ## set up flutter
 ### create the project
