@@ -1,4 +1,4 @@
-# setpup_django_flutter
+# setup django  flutter
 
 ## set up  django and django rest framework
 ### create virtual environment
