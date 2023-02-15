@@ -20,8 +20,8 @@
 ### create the project
  - flutter create project_name
 ### run flutter app wirelessly 
- - adb tcpip <port>
- - adb connect <device-ip-address>:<port>
+ - adb tcpip port
+ - adb connect device-ip-address:port
  - default port : 5555
 
 
